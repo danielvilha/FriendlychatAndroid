@@ -55,7 +55,7 @@
             ads:layout_constraintBottom_toBottomOf="parent"
             ads:layout_constraintEnd_toStartOf="@+id/sendButton"
             ads:layout_constraintStart_toEndOf="@+id/addMessageImageView"
-            ads:layout_constraintTop_toTopOf="parent" tools:targetApi="o"/>
+            ads:layout_constraintTop_toTopOf="parent" />
 
         <Button
             android:id="@+id/sendButton"
