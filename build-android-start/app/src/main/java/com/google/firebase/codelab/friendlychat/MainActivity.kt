@@ -60,8 +60,6 @@ class MainActivity : AppCompatActivity(), GoogleApiClient.OnConnectionFailedList
     private val MESSAGE_SENT_EVENT = "message_sent"
     private val MESSAGE_URL = "http://friendlychat.firebase.google.com/message/"
 
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

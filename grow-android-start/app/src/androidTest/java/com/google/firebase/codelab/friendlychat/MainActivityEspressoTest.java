@@ -17,7 +17,7 @@
 package com.google.firebase.codelab.friendlychat;
 
 import org.junit.Rule;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 
 import androidx.test.espresso.matcher.ViewMatchers;
